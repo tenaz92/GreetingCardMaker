@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:4:2-27
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:6:2-27
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:3:2-60
+	android:versionCode
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:5:2-25
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+application
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:8:2-9:16
+uses-sdk
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:10:2-11:31
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:10:2-11:31
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:10:2-11:31
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:10:2-11:31
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:10:2-11:31
+	android:targetSdkVersion
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:10:2-11:31
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml:11:3-28
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/src/main/AndroidManifest.xml

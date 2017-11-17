@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/outerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backimage"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:id="@+id/cardimageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imageview"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="500dp"
+            android:layout_height="600dp"
+            android:contentDescription="@string/imagedescription" />
+
+        <ImageView
+            android:id="@+id/templateview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/imagedescription" />
+
+        <ImageView
+            android:id="@+id/signimage"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/imagedescription"
+            android:paddingBottom="20dp" />
+
+        <EditText
+            android:id="@+id/edittext"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/edittextstates"
+            android:hint="@string/enter_your_text"
+            android:inputType="textMultiLine"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/touchinterceptor"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:focusableInTouchMode="true" >
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/editbar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:background="#95000000"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/addphoto_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/picture" />
+
+        <Button
+            android:id="@+id/addtext_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_toRightOf="@+id/addphoto_button"
+            android:background="@drawable/edit"/>
+
+        <Button
+            android:id="@+id/addsign_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_toRightOf="@+id/addtext_button"
+            android:background="@drawable/sign" />
+
+        <Button
+            android:id="@+id/save_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/save" />
+    </RelativeLayout>
+
+</RelativeLayout>

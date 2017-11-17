@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <view
+        android:id="@+id/drawingview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="70dp"
+        class="com.qburst.greetingcardapp.views.DrawingView">
+    </view>
+
+    <LinearLayout
+        android:id="@+id/addcolorbar"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/black" >
+
+        <Button
+            android:id="@+id/color_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/color"
+            android:text="@string/color"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

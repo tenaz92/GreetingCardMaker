@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backimage"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/category_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_layout"
+        android:text="@string/birthday"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/category_button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/category_button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:background="@drawable/button_layout"
+        android:text="@string/friendship"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/category_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/category_button1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:background="@drawable/button_layout"
+        android:text="@string/christmas"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="25sp" />
+
+</RelativeLayout>

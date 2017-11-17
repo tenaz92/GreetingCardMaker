@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,8,9,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,521,566,857",
+                        "endLines": "2,8,15,18",
+                        "endColumns": "53,44,12,12",
+                        "endOffsets": "104,561,852,1012"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/res/merged/androidTest/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/bundles/debug/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/res/merged/androidTest/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/bundles/debug/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

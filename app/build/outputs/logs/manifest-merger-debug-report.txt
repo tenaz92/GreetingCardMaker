@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+MERGED from [:ambilWarna] /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:cropper] /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:library] /home/tenaz/AndroidStudioProjects/GreetingCard1/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [:ambilWarna] /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [:ambilWarna] /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [:cropper] /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:cropper] /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /home/tenaz/AndroidStudioProjects/GreetingCard1/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /home/tenaz/AndroidStudioProjects/GreetingCard1/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:14:22-63
+application
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:17:5-86:19
+MERGED from [:ambilWarna] /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:ambilWarna] /home/tenaz/AndroidStudioProjects/GreetingCard1/ambilWarna/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:21:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:22:9-24:46
+	android:value
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:24:13-43
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:23:13-58
+activity#com.qburst.greetingcardapp.activities.SplashScreenActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:27:13-49
+	android:theme
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:26:13-86
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.qburst.greetingcardapp.activities.MainActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:36:13-78
+activity#com.qburst.greetingcardapp.activities.EditTemplateActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:41:13-86
+activity#com.qburst.greetingcardapp.activities.AddPhotoActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:46:13-82
+activity#com.qburst.greetingcardapp.activities.ImageFromGalleryActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:50:9-54:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:51:13-90
+activity#com.qburst.greetingcardapp.activities.EditPhotoActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:55:9-59:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:56:13-83
+activity#com.qburst.greetingcardapp.activities.CropActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:60:9-64:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:61:13-78
+activity#com.qburst.greetingcardapp.activities.PreviewActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:67:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:66:13-81
+activity#com.qburst.greetingcardapp.activities.AddSignActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:70:9-74:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:71:13-81
+activity#com.qburst.greetingcardapp.activities.SavedCardActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:75:9-79:20
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:76:13-83
+activity#com.facebook.LoginActivity
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:81:2-85:75
+	android:screenOrientation
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:83:13-45
+	android:theme
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:85:13-72
+	android:name
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:82:13-54
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/tenaz/AndroidStudioProjects/GreetingCard1/app/src/main/AndroidManifest.xml:2:1-88:12 reason: yuku.ambilwarna has a targetSdkVersion < 4

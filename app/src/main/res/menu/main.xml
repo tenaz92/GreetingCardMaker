@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sampleprojects.greetingcardapp.MainActivity" >
+
+    <item
+        android:id="@+id/menu_toggle"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/open"
+        android:title="savedcard"/>
+
+</menu>

@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:2:5-33
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:4:5-30
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml:3:5-28
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		ADDED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
+		INJECTED from /home/tenaz/AndroidStudioProjects/GreetingCard1/cropper/AndroidManifest.xml
